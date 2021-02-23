@@ -7,3 +7,6 @@ Fix for [Delayed ClassD Doors](https://cdn.discordapp.com/attachments/6567903333
 | --- | --- | --- | --- |
 | `is_enabled` | bool | Toggles the plugin | true |
 | `  time_until_doors_open` | float | time until doors open ;) | 5 |
+
+# Downloads
+![img](https://img.shields.io/github/downloads/An4r3w/delayed-classd-doors-fix/total?style=for-the-badge)
